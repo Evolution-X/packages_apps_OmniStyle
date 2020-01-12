@@ -308,8 +308,24 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".evolution"
-            android:label="Ecnivtwelve and Prudev - Evolution X" >
+            android:name=".evolution_dark"
+            android:label="Ecnivtwelve - Evolution X Dark" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".evolution_light"
+            android:label="Ecnivtwelve - Evolution X Light" >
+            <intent-filter>
+                <action android:name="org.omnirom.DaylightHeaderPack1" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".evolution_prudev"
+            android:label="Emma - Evolution X" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
                 <category android:name="android.intent.category.DEFAULT" />
