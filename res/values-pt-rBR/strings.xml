@@ -28,12 +28,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="no_crop_activity_dialog_text">O aplicativo Omni Gallery é necessário para definir o papel de parede</string>
     <string name="no_crop_activity_dialog_title">Galeria indisponível</string>
     <string name="scrolling_wall_dialog_text">Deseja recortar o papel de parede para o tamanho da tela\u003f</string>
-    <string name="scrolling_wall_dialog_title">Cortar papel de parede</string>
+    <string name="scrolling_wall_dialog_title">Recortar papel de parede</string>
     <string name="scrolling_wall_yes">Não</string>
     <string name="scrolling_wall_no">Sim</string>
     <string name="wallpaper_location_local">Local</string>
     <string name="wallpaper_location_remote">Remoto</string>
-    <string name="download_wallpaper_notice">Fazendo download do papel de parede</string>
+    <string name="download_wallpaper_notice">Baixando papel de parede</string>
     <string name="download_wallpaper_failed_notice">Falha no download do papel de parede</string>
     <string name="no_network_message">Sem rede</string>
     <string name="download_wallpaper_list_failed_notice">Falha ao carregar o diretório de papel de parede</string>
