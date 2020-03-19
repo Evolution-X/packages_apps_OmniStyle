@@ -48,8 +48,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="sort_by_default_menu">Сортировать по названию</string>
     <string name="download_header_notice">Загрузка обложки</string>
     <string name="download_header_failed_notice">Не удалось загрузить обложку</string>
-    <string name="header_location_local">Локальный</string>
-    <string name="header_location_online">Удаленный</string>
+    <string name="header_location_local">Локальная</string>
+    <string name="header_location_online">Удаленная</string>
     <string name="compose_theme">Создать тему</string>
     <string name="theme_accent">Цвет акцента</string>
     <string name="theme_primary">Основной</string>
