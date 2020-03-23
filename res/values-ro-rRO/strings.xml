@@ -38,7 +38,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="no_network_message">Fără conexiune la reţea</string>
     <string name="download_wallpaper_list_failed_notice">Încărcarea dosarului imaginilor de fundal nu a reușit</string>
     <string name="wallpaper_default_name">Imagine de fundal</string>
-    <string name="browse_theme_walls">Teme imagini de fundal</string>
+    <string name="browse_theme_walls">Teme ale imaginilor de fundal</string>
     <string name="browse_theme_header">Teme anteturi</string>
     <string name="pick_header">Selectaţi antetul</string>
     <string name="pick_theme">Selectaţi tema</string>
@@ -50,7 +50,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="download_header_failed_notice">Descărcarea antetului a eșuat</string>
     <string name="header_location_local">Local</string>
     <string name="header_location_online">La distanţă</string>
-    <string name="compose_theme">Compunere temă</string>
+    <string name="compose_theme">Creare temă</string>
     <string name="theme_accent">Accent</string>
     <string name="theme_primary">Primar</string>
     <string name="theme_notification">Notificare</string>
