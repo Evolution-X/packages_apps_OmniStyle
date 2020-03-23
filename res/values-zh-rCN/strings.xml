@@ -29,7 +29,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="no_crop_activity_dialog_title">无法找到图库</string>
     <string name="scrolling_wall_dialog_text">你想要裁剪壁纸到显示 size\u003f 吗</string>
     <string name="scrolling_wall_dialog_title">剪裁壁纸</string>
-    <string name="scrolling_wall_yes">否　</string>
+    <string name="scrolling_wall_yes">否</string>
     <string name="scrolling_wall_no">是</string>
     <string name="wallpaper_location_local">本地</string>
     <string name="wallpaper_location_remote">远程</string>
