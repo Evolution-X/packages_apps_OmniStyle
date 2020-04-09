@@ -30,7 +30,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="scrolling_wall_dialog_text">¿Quieres recortar el fondo de pantalla al tamaño de la pantalla\u003f</string>
     <string name="scrolling_wall_dialog_title">Recortar fondo de pantalla</string>
     <string name="scrolling_wall_yes">No</string>
-    <string name="scrolling_wall_no">Si</string>
+    <string name="scrolling_wall_no">Sí</string>
     <string name="wallpaper_location_local">Local</string>
     <string name="wallpaper_location_remote">Remoto</string>
     <string name="download_wallpaper_notice">Descargando fondo de pantalla</string>
@@ -54,7 +54,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_accent">Acento</string>
     <string name="theme_primary">Principal</string>
     <string name="theme_notification">Notificación</string>
-    <string name="theme_compose">Redactar</string>
+    <string name="theme_compose">Componer</string>
     <string name="button_apply">Aplicar</string>
     <string name="notification_overlay_info">Se requiere reinicio después de\ncambiar la capa de notificación</string>
 </resources>
