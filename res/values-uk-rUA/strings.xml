@@ -32,7 +32,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="scrolling_wall_yes">Ні</string>
     <string name="scrolling_wall_no">Так</string>
     <string name="wallpaper_location_local">Місцевий</string>
-    <string name="wallpaper_location_remote">Віддалений</string>
+    <string name="wallpaper_location_remote">Онлайн</string>
     <string name="download_wallpaper_notice">Завантаження шпалер</string>
     <string name="download_wallpaper_failed_notice">Не вдалося завантажити шпалери</string>
     <string name="no_network_message">Немає підключення до мережі</string>
@@ -49,7 +49,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="download_header_notice">Завантаження заголовку</string>
     <string name="download_header_failed_notice">Завантаження заголовку невдале</string>
     <string name="header_location_local">Місцевий</string>
-    <string name="header_location_online">Віддалений</string>
+    <string name="header_location_online">Онлайн</string>
     <string name="compose_theme">Створити тему</string>
     <string name="theme_accent">Акцент</string>
     <string name="theme_primary">Первинний</string>
@@ -57,4 +57,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_compose">Створити</string>
     <string name="button_apply">Застосувати</string>
     <string name="notification_overlay_info">Потрібне перезавантаження після\nзміни накладання сповіщень</string>
+    <string name="wavvy_header">Хвилястий (час)</string>
+    <string name="nature_header">Природній (час)</string>
+    <string name="nature_header_random">Природній (випадково)</string>
+    <string name="poly_header">Poly (час)</string>
 </resources>
