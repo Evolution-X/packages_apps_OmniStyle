@@ -57,4 +57,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_compose">কম্পোজ করুন</string>
     <string name="button_apply">প্রয়োগ করুন</string>
     <string name="notification_overlay_info">রিবুট করা দরকার\nযদি নোটিফিকেশন ওভারলে পরিবর্তন করা হয়</string>
+    <string name="wavvy_header">ওয়াভভি (সময়)</string>
+    <string name="nature_header">প্রকৃতি (সময়)</string>
+    <string name="nature_header_random">প্রকৃতি (র‍্যান্ডম)</string>
+    <string name="poly_header">পলি (সময়)</string>
 </resources>
