@@ -32,7 +32,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="scrolling_wall_yes">Нет</string>
     <string name="scrolling_wall_no">Да</string>
     <string name="wallpaper_location_local">Локальные</string>
-    <string name="wallpaper_location_remote">Удаленные</string>
+    <string name="wallpaper_location_remote">Онлайн</string>
     <string name="download_wallpaper_notice">Загрузка обоев</string>
     <string name="download_wallpaper_failed_notice">Не удалось загрузить обои</string>
     <string name="no_network_message">Нет подключения к сети</string>
@@ -49,7 +49,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="download_header_notice">Загрузка обложки</string>
     <string name="download_header_failed_notice">Не удалось загрузить обложку</string>
     <string name="header_location_local">Локальная</string>
-    <string name="header_location_online">Удаленная</string>
+    <string name="header_location_online">Онлайн</string>
     <string name="compose_theme">Создать тему</string>
     <string name="theme_accent">Цвет акцента</string>
     <string name="theme_primary">Основной</string>
@@ -57,4 +57,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_compose">Создать</string>
     <string name="button_apply">Применить</string>
     <string name="notification_overlay_info">Требуется перезагрузка устройства после\nизменения оверлея уведомлений</string>
+    <string name="wavvy_header">Волна (время)</string>
+    <string name="nature_header">Природа (время)</string>
+    <string name="nature_header_random">Природа (Случайно)</string>
+    <string name="poly_header">Поли (время)</string>
 </resources>
