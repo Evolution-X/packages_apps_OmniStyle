@@ -57,4 +57,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_compose">Componi</string>
     <string name="button_apply">Applica</string>
     <string name="notification_overlay_info">Un riavvio è richiesto dopo aver\ncambiato la sovrapposizione delle notifiche</string>
+    <string name="wavvy_header">Ondulato (ora)</string>
+    <string name="nature_header">Natura (ora)</string>
+    <string name="nature_header_random">Natura (casuale)</string>
+    <string name="poly_header">Poligonale (ora)</string>
 </resources>
