@@ -32,7 +32,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="scrolling_wall_yes">Nie</string>
     <string name="scrolling_wall_no">Tak</string>
     <string name="wallpaper_location_local">Lokalny</string>
-    <string name="wallpaper_location_remote">Zdalny</string>
+    <string name="wallpaper_location_remote">Online</string>
     <string name="download_wallpaper_notice">Pobieranie tapety</string>
     <string name="download_wallpaper_failed_notice">Pobieranie tapety nie powiodło się</string>
     <string name="no_network_message">Brak połączenia sieciowego</string>
@@ -49,7 +49,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="download_header_notice">Pobieranie nagłówka</string>
     <string name="download_header_failed_notice">Pobieranie nagłówka nie powiodło się</string>
     <string name="header_location_local">Lokalny</string>
-    <string name="header_location_online">Zdalny</string>
+    <string name="header_location_online">Online</string>
     <string name="compose_theme">Utwórz motyw</string>
     <string name="theme_accent">Akcent</string>
     <string name="theme_primary">Podstawowy</string>
@@ -57,4 +57,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_compose">Skomponuj</string>
     <string name="button_apply">Zastosuj</string>
     <string name="notification_overlay_info">Wymagany ponowny restart po\nzmianie nakładki powiadomień</string>
+    <string name="wavvy_header">Wavvy (czasowe)</string>
+    <string name="nature_header">Natura (czasowe)</string>
+    <string name="nature_header_random">Natura (losowe)</string>
+    <string name="poly_header">Poly (czasowe)</string>
 </resources>
