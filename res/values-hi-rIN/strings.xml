@@ -32,7 +32,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="scrolling_wall_yes">नहीं</string>
     <string name="scrolling_wall_no">हाँ</string>
     <string name="wallpaper_location_local">फोन</string>
-    <string name="wallpaper_location_remote">रिमोट</string>
+    <string name="wallpaper_location_remote">ऑनलाइन</string>
     <string name="download_wallpaper_notice">वॉलपेपर डाउनलोड कर रहा है</string>
     <string name="download_wallpaper_failed_notice">वॉलपेपर डाउनलोड करना विफल रहा</string>
     <string name="no_network_message">कोई नेटवर्क उपलब्ध नहीं</string>
@@ -49,7 +49,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="download_header_notice">हेडर डाउनलोड हो रहा है</string>
     <string name="download_header_failed_notice">हेडर डाउनलोड करना विफल रहा</string>
     <string name="header_location_local">फोन</string>
-    <string name="header_location_online">रिमोट</string>
+    <string name="header_location_online">ऑनलाइन</string>
     <string name="compose_theme">थीम बनाएं</string>
     <string name="theme_accent">उच्चारण</string>
     <string name="theme_primary">मुख्य</string>
@@ -57,4 +57,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_compose">बनाएं</string>
     <string name="button_apply">लागू करें</string>
     <string name="notification_overlay_info">नोटिफिकेशन ओवरले बदलने \n के बाद फोन को दोबारा चालू करने की जरूरत होती है</string>
+    <string name="wavvy_header">लहर(समय)</string>
+    <string name="nature_header">प्रकृति (समय)</string>
+    <string name="nature_header_random">प्रकृति (समय)</string>
+    <string name="poly_header">पॉली (समय)</string>
 </resources>
