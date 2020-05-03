@@ -25,7 +25,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_type_system">Домашній екран</string>
     <string name="wallpaper_type_lock">Екран блокування</string>
     <string name="header_creator_label">Автор\u003a </string>
-    <string name="no_crop_activity_dialog_text">Для встановлення шпалер встановлення шпалер Omni Gallery</string>
+    <string name="no_crop_activity_dialog_text">Для встановлення шпалер необхідний додаток Omni Gallery</string>
     <string name="no_crop_activity_dialog_title">Галерея відсутня</string>
     <string name="scrolling_wall_dialog_text">Ви хочете змінити розмір зображення під розмір екрану\u003f</string>
     <string name="scrolling_wall_dialog_title">Обрізати шпалери</string>
