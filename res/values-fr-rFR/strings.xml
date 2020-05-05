@@ -17,7 +17,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
     <string name="browse_header">Entêtes </string>
-    <string name="custom_header_image_notice">image d\'en-tête</string>
+    <string name="custom_header_image_notice">Image d\'en-tête</string>
     <string name="browse_walls">Fonds d\'écran</string>
     <string name="omni_walls">Omni</string>
     <string name="wallpaper_type_dialog_title">Définir le fond d\'écran</string>
