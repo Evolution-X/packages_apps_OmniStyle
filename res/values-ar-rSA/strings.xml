@@ -32,7 +32,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="scrolling_wall_yes">لا</string>
     <string name="scrolling_wall_no">نعم</string>
     <string name="wallpaper_location_local">محلي</string>
-    <string name="wallpaper_location_remote">عن بعد</string>
+    <string name="wallpaper_location_remote">متصل</string>
     <string name="download_wallpaper_notice">جاري تحميل الخلفية</string>
     <string name="download_wallpaper_failed_notice">فشل تحميل الخلفية</string>
     <string name="no_network_message">لا يوجد اتصال بالشبكة</string>
@@ -40,7 +40,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="wallpaper_default_name">الخلفية</string>
     <string name="browse_theme_walls">سمات الخلفيات</string>
     <string name="browse_theme_header">السمات العلوية</string>
-    <string name="pick_header">حدد العلوية</string>
+    <string name="pick_header">حدد الصورة العلوية</string>
     <string name="pick_theme">اختر السمة</string>
     <string name="theme_disable">الإفتراضي</string>
     <string name="sort_by_creator_menu">الترتيب حسب المنشئ</string>
@@ -57,8 +57,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_compose">إنشاء</string>
     <string name="button_apply">تطبيق</string>
     <string name="notification_overlay_info">إعادة التشغيل مطلوبة بعد\nتغيير شكل الإشعارات</string>
-    <string name="wavvy_header">حميد (الوقت)</string>
+    <string name="wavvy_header">مموج (الوقت)</string>
     <string name="nature_header">الطبيعة (الوقت)</string>
     <string name="nature_header_random">الطبيعة (عشوائي)</string>
-    <string name="poly_header">البولي (الوقت)</string>
+    <string name="poly_header">فني ( حسب الوقت)</string>
 </resources>
