@@ -57,4 +57,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="theme_compose">எழுது</string>
     <string name="button_apply">விண்ணப்பிக்கவும்</string>
     <string name="notification_overlay_info">Notification அறிவிப்பு மேலடுக்கை மாற்றிய பின் மறுதொடக்கம் தேவை</string>
+    <string name="wavvy_header">வாவி (நேரம்)</string>
+    <string name="nature_header">இயற்கை (நேரம்)</string>
+    <string name="nature_header_random">இயற்கை (சீரற்ற)</string>
+    <string name="poly_header">பாலி (நேரம்)</string>
 </resources>
