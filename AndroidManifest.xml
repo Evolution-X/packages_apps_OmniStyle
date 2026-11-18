@@ -35,6 +35,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         android:allowBackup="false"
         android:label="OmniStyle"
         android:icon="@drawable/candy_icon"
+        android:supportsRtl="true"
         android:theme="@style/Theme.OmniStyle" >
         <activity
             android:name=".BrowseHeaderActivity"
