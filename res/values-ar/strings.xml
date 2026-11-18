@@ -16,4 +16,14 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>    <string name="browse_header">الترويسات</string>
+    <string name="custom_header_image_notice">تم تعيين صورة الترويسة</string>
+    <string name="browse_theme_header">ترويسات الثيم</string>
+    <string name="pick_header">اختيار صورة ترويسة</string>
+    <string name="navigate_up">الانتقال للأعلى</string>
+    <string name="header_current">الترويسة الحالية</string>
+    <string name="header_pack_summary">%1$s • بقلم %2$s</string>
+    <string name="header_empty_title">لا توجد حزم ترويسات مثبّتة</string>
+    <string name="header_empty_summary">ستظهر حزم الترويسات المثبّتة هنا</string>
+    <string name="header_pack_empty">لا تحتوي هذه الحزمة على ترويسات</string>
+</resources>
